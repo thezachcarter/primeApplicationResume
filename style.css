@@ -8,17 +8,17 @@ body {
 .exp-header{
   text-align: center; 
   text-transform: uppercase;
-  border-top: 1px solid rgba(14, 95, 217 );
-  border-bottom: 1px solid rgba(14, 95, 217 );
+  border-top: 1px solid #0c0c0c;
+  border-bottom: 1px solid #0c0c0c;
   background-color: #c6c6c6;
-    background: linear-gradient(90deg, rgba(27,257,57,.25) 0%, rgba(27,257,57,.5) 50%, rgba(27,257,57,1) 100%);
+    background: linear-gradient(90deg, rgba(200,210,220,.25) 0%, rgba(200,210,220,.5) 50%, rgba(200,210,220,1) 100%);
 }
 
 .edu-header{
   text-align: center; 
   text-transform: uppercase;
-  border-top: 1px solid rgba(14, 95, 217 );
-  border-bottom: 1px solid rgba(14, 95, 217 );
+  border-top: 1px solid #0c0c0c;
+  border-bottom: 1px solid #0c0c0c;
   background-color: #c6c6c6;
-    background: linear-gradient(90deg, rgba(27,257,57,1) 0%, rgba(27,257,57,.5) 50%, rgba(27,257,57,.25) 100%);
+    background: linear-gradient(90deg, rgba(200,210,220,1) 0%, rgba(200,210,220,.5) 50%, rgba(200,210,220,.25) 100%);
 }
