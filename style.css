@@ -22,3 +22,8 @@ body {
   background-color: #c6c6c6;
     background: linear-gradient(90deg, rgba(200,210,220,1) 0%, rgba(200,210,220,.5) 50%, rgba(200,210,220,.25) 100%);
 }
+
+.name{
+  font-family: Mistral; Helvetica; Arial, sans-serif;
+  font-size: 24px
+}
